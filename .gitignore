@@ -1,4 +1,2 @@
-0_class/*
-*.xcodeproj/*
-*.xcodeproj/project.pbxproj
+0_class/*.xcodeproj/
 *.DS_Store
